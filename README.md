@@ -12,8 +12,6 @@
   
   ![Snake animation](https://github.com/ThiagoMarzari/ThiagoMarzari/blob/output/github-contribution-grid-snake.svg)
   
- <!–img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMarzari&layout=compact&langs_count=7&theme=radical"/–>
-  
   
 
 
