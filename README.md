@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Thiago Marzari
 
 - 🌱 Estudando C, C# e C++
+- Gmail: thiagomarzari01@gmail.com
 
 <div align="center">
   <a href="https://github.com/ThiagoMarzari">
