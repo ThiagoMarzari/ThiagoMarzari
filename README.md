@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Thiago Marzari
 
-- 🌱 Estudando C, C# e GML
+- 🌱 Estudando C, C# e C++
 
 <div align="center">
   <a href="https://github.com/ThiagoMarzari">
