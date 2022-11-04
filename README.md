@@ -1,6 +1,6 @@
-### Olá! Eu sou o Thiago Marzari
+### Hello! I'm Thiago Marzari
 
-- 🌱 Estudando C, C# e C++
+- 🌱 Learning, C++, Unreal Engine 5 and Unity
 - Gmail: thiagomarzari01@gmail.com
 
 <div align="center">
