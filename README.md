@@ -1,6 +1,6 @@
 ### Hello! I'm Thiago Marzari
 
-- 🌱 Learning, C++, Unreal Engine 5 and Unity
+- 🌱 Learning, C++ and Unreal Engine
 - Gmail: thiagomarzari01@gmail.com
 
 <div align="center">
