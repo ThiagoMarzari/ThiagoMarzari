@@ -1,6 +1,6 @@
-### Hello! I'm Thiago Marzari
+### Olá, eu sou Thiago Marzari Rossato
 
-- 🌱 Learning, C++ and Unreal Engine
+- 🌱 Cursando Jogos Digitais
 - Gmail: thiagomarzari01@gmail.com
 
 <div align="center">
