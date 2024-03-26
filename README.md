@@ -1,6 +1,6 @@
 ### Olá, eu sou Thiago Marzari Rossato
 
-- 🌱 Cursando Jogos Digitais
+- 🌱 Cursando Ciência da Computação
 - Gmail: thiagomarzari01@gmail.com
 
 <div align="center">
